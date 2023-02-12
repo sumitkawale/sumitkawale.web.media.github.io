@@ -41,17 +41,17 @@
             "aboutProject": "SumitKawale Portfolio is a dynamic and modern web-based application designed to showcase the professional profile and accomplishments of Sumit Kawale. This portfolio is created to provide an easy and accessible platform for visitors to explore and learn about Sumit's experience, skills, and projects.<br/><br/>From a user's point of view, the portfolio is easy to navigate and provides a smooth user experience. The home page provides a brief overview of Sumit's background, including his work experience, education, and key skills. Visitors can also access a detailed list of projects that Sumit has worked on, complete with screenshots and descriptions of each project.<br/><br/>The portfolio is built using cutting-edge technologies, including React JS, Node JS, HTML, CSS, Bootstrap, and AWS Cloud Storage. This combination of technologies provides a fast and responsive user interface, as well as robust and scalable back-end functionality. The portfolio is hosted on a tunnel server, ensuring fast and reliable access for visitors from around the world.<br/><br/>Whether you are an employer looking to hire or a fellow developer seeking inspiration, SumitKawale Portfolio is the perfect platform to learn about Sumit's work and achievements. Browse through the portfolio today and see what Sumit has to offer!",
             "screenshots": [
                 {
-                    "url": "https://sumitkawale.github.io/sumitkawale.web.media.github.io/projectsImages/Screenshot-Portfolio.png",
+                    "url": "https://sumitkawale.github.io/sumitkawale.web.media.github.io/projectsImages/portfolio/Screenshot-Portfolio.png",
                     "title": "Home Screen",
                     "description": "Description, Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus rerum aspernatur voluptate assumendaLorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus rerum aspernatur voluptate assumendaculpa magnam quod consectetur enim modi fuga nulla voluptatem ratione sunt nemo deleniti doloribus numquam,laborum quaerat reiciendis architecto? Atque autem consectetur, soluta cumque consequatur illum laboriosamharum vitae esse ad. Amet suscipit modi cum. Quia, hic?"
                 },
                 {
-                    "url": "https://sumitkawale.github.io/sumitkawale.web.media.github.io/projectsImages/Screenshot-Portfolio.png",
+                    "url": "https://sumitkawale.github.io/sumitkawale.web.media.github.io/projectsImages/portfolio/Screenshot-Portfolio.png",
                     "title": "About me",
                     "description": "Description, Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus rerum aspernatur voluptate assumendaLorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus rerum aspernatur voluptate assumendaculpa magnam quod consectetur enim modi fuga nulla voluptatem ratione sunt nemo deleniti doloribus numquam,laborum quaerat reiciendis architecto? Atque autem consectetur, soluta cumque consequatur illum laboriosamharum vitae esse ad. Amet suscipit modi cum. Quia, hic?"
                 },
                 {
-                    "url": "https://sumitkawale.github.io/sumitkawale.web.media.github.io/projectsImages/Screenshot-Portfolio.png",
+                    "url": "https://sumitkawale.github.io/sumitkawale.web.media.github.io/projectsImages/portfolio/Screenshot-Portfolio.png",
                     "title": "list of projects",
                     "description": "Description, Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus rerum aspernatur voluptate assumendaLorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus rerum aspernatur voluptate assumendaculpa magnam quod consectetur enim modi fuga nulla voluptatem ratione sunt nemo deleniti doloribus numquam,laborum quaerat reiciendis architecto? Atque autem consectetur, soluta cumque consequatur illum laboriosamharum vitae esse ad. Amet suscipit modi cum. Quia, hic?"
 
