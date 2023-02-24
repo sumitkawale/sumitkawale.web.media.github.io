@@ -5,7 +5,7 @@
         "workingIn": "Shivankit TechSolutions",
         "workingAs": "Web Developer intern",
         "profilePhoto":"SKme.jpg",
-        "beComplete": true
+        "beComplete": false
     },
 
     "education": [
@@ -121,22 +121,22 @@
         "FrontEnd": [
             {
                 "technology": "HTML",
-                "perfect": 75,
+                "perfect": 95,
                 "perfectLabel": "Proficient"
             },
             {
                 "technology": "CSS",
-                "perfect": 70,
+                "perfect": 90,
                 "perfectLabel": "Proficient"
             },
             {
                 "technology": "JavaScript",
-                "perfect": 70,
+                "perfect": 80,
                 "perfectLabel": "Proficient"
             },
             {
                 "technology": "React",
-                "perfect": 60,
+                "perfect": 70,
                 "perfectLabel": "Skillful"
             },
             {
@@ -146,19 +146,19 @@
             },
             {
                 "technology": "BootStrap",
-                "perfect": 73,
+                "perfect": 95,
                 "perfectLabel": "Proficient"
             }
         ],
         "BackEnd": [
             {
                 "technology": "NodeJS",
-                "perfect": 21,
+                "perfect": 70,
                 "perfectLabel": "Intermediate"
             },
             {
                 "technology": "Express",
-                "perfect": 25,
+                "perfect": 80,
                 "perfectLabel": "Intermediate"
             },
             {
@@ -168,7 +168,7 @@
             },
             {
                 "technology": "PHP",
-                "perfect": 70,
+                "perfect": 85,
                 "perfectLabel": "Proficient"
             }
         ],
@@ -180,12 +180,12 @@
             },
             {
                 "technology": "MongoDB",
-                "perfect": 45,
+                "perfect": 75,
                 "perfectLabel": "Skillful"
             },
             {
                 "technology": "SQLite",
-                "perfect": 51,
+                "perfect": 75,
                 "perfectLabel": "Skillful"
             },
             {
@@ -202,17 +202,17 @@
             },
             {
                 "technology": "AWS",
-                "perfect": 5,
+                "perfect": 10,
                 "perfectLabel": "Beginner"
             },
             {
                 "technology": "MongodbAtlas",
-                "perfect": 25,
+                "perfect": 70,
                 "perfectLabel": "Intermediate"
             },
             {
                 "technology": "LocalTunnel",
-                "perfect": 70,
+                "perfect": 95,
                 "perfectLabel": "Proficient"
             }
         ]
