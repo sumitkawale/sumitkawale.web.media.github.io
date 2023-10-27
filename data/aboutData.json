@@ -108,6 +108,24 @@
           }
       ],
       "BackEnd": [
+         {
+              "technology": "BunJS",
+              "perfect": 70,
+              "logo": "bunjs.svg",
+              "perfectLabel": "Intermediate"
+          },
+         {
+              "technology": "ElysiaJS",
+              "perfect": 70,
+              "logo": "elysiajs.svg",
+              "perfectLabel": "Intermediate"
+          },
+         {
+              "technology": "Go",
+              "perfect": 70,
+              "logo": "go.svg",
+              "perfectLabel": "Intermediate"
+          },
           {
               "technology": "NodeJS",
               "perfect": 70,
